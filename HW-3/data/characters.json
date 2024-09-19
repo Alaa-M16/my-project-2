@@ -1,0 +1,44 @@
+[   
+    {
+        "name":"Alaa",
+        "age":"23",
+        "photo":"https://imageio.forbes.com/specials-images/imageserve/5f64397931669e167fc57eaf//960x0.jpg?format=jpg&width=960",
+        "bio":"Doctor woking in othro department"
+    },
+    {
+        "name":"Amr",
+        "age":"25",
+        "photo":"",
+        "bio":"Doctor woking in nero department"
+    },
+    {
+        "name":"Ahmad",
+        "age":"23",
+        "photo":"",
+        "bio":"Doctor woking in cardio department"
+    },
+    {
+        "name":"Mahmoud",
+        "age":"26",
+        "photo":"",
+        "bio":"CEO of nice organstion"
+    },
+    {
+        "name":"Mahmoud E",
+        "age":"27",
+        "photo":"",
+        "bio":"it programmer"
+    },
+    {
+        "name":"Abdoul",
+        "age":"20",
+        "photo":"",
+        "bio":"Doctor woking in othro department"
+    },
+    {
+        "name":"Nour",
+        "age":"18",
+        "photo":"",
+        "bio":"Learning programing"
+    }
+]
